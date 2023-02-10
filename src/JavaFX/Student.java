@@ -1,3 +1,4 @@
+package JavaFX;
 import javafx.scene.control.Button;
 
 public class Student {// ko noí gì thì là lớp con của lớp Object
